@@ -12,6 +12,7 @@ public class Boot05WebAdminApplication {
         SpringApplication.run(Boot05WebAdminApplication.class, args);
         System.out.println("1");
         System.out.println("2");
+        System.out.println("hot-fix");
     }
 
 }
